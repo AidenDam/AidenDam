@@ -9,10 +9,10 @@
 
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aidendam&show_icons=true&theme=vue&hide_border=true&include_all_commits=true" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aidendam&show_icons=true&theme=vue&include_all_commits=true" >
 </a>
 <a href="#"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidendam&theme=vue&hide_border=true&layout=compact" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidendam&theme=vue&layout=compact" >
 </a>
 
 <h3 align="left">Languages and Tools</h3>
