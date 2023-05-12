@@ -1,4 +1,4 @@
-[![Header](./img/header-readme.png "Header")](#)
+<!-- [![Header](./img/header-readme.png "Header")](#) -->
 
 ### About me
 - I’m currently working on **HIT - HaUI**.
