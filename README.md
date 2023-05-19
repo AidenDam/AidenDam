@@ -3,7 +3,7 @@
 ### About me
 - I’m currently working on **HIT - HaUI**.
 - I'm passionate about **Machine Learning** and **Data Science**.
-- My work is mostly about **Computer Vision**, **Performance Optimization**.
+- My work is mostly about **MLOps**, **Performance Optimization**.
 - If you want to talk, the best way to contact me is usually through [Facebook](https://www.facebook.com/profile.php?id=100015560746629) or [Email](mailto:daodam827@gmail.com).
 
 ### ⚡ GitHub Stats
