@@ -14,11 +14,6 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=aidendam&show_icons=true&theme=vue&include_all_commits=true&hide_border=true" >
     </a>
   </td>
-  <td width="40%">
-    <a href="#"> 
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidendam&theme=vue&layout=compact&hide_border=true" >
-    </a>
-  </td>
 </tr>
 <table>
 
